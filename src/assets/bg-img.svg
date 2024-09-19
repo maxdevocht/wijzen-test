@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" width="964.84mm" height="964.84mm" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2734.98 2734.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Naamloos_verloop_6);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        opacity: .15;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        filter: url(#luminosity-noclip);
+      }
+
+      .cls-5 {
+        mask: url(#mask);
+      }
+    </style>
+    <filter id="luminosity-noclip" x="-16.92" y="-7.29" width="2768.98" height="2736" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <radialGradient id="Naamloos_verloop_6" data-name="Naamloos verloop 6" cx="-162.1" cy="2898.91" fx="-162.1" fy="2898.91" r="1" gradientTransform="translate(223036.21 3965597.69) scale(1367.49 -1367.49)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <mask id="mask" x="-16.92" y="-7.29" width="2768.98" height="2736" maskUnits="userSpaceOnUse">
+      <g class="cls-4">
+        <rect class="cls-1" x="-16.92" y="-7.29" width="2768.98" height="2736"/>
+      </g>
+    </mask>
+  </defs>
+  <g class="cls-3">
+    <g class="cls-5">
+      <g>
+        <polygon class="cls-2" points="1224.63 7.71 1367.57 1367.71 1510.51 7.71 1224.63 7.71"/>
+        <polygon class="cls-2" points="683.82 183.43 1367.57 1367.71 944.99 67.15 683.82 183.43"/>
+        <polygon class="cls-2" points="261.24 563.92 1367.57 1367.71 452.54 351.47 261.24 563.92"/>
+        <polygon class="cls-2" points="29.96 1083.39 1367.57 1367.71 118.3 811.5 29.96 1083.39"/>
+        <polygon class="cls-2" points="29.96 1652.03 1367.57 1367.71 .08 1367.71 29.96 1652.03"/>
+        <polygon class="cls-2" points="261.24 2171.5 1367.57 1367.71 118.3 1923.92 261.24 2171.5"/>
+        <polygon class="cls-2" points="683.82 2551.99 1367.57 1367.71 452.54 2383.95 683.82 2551.99"/>
+        <polygon class="cls-2" points="1224.63 2727.71 1367.57 1367.71 944.99 2668.27 1224.63 2727.71"/>
+        <polygon class="cls-2" points="1790.15 2668.27 1367.57 1367.71 1510.51 2727.71 1790.15 2668.27"/>
+        <polygon class="cls-2" points="2282.6 2383.95 1367.57 1367.71 2051.31 2551.99 2282.6 2383.95"/>
+        <polygon class="cls-2" points="2616.83 1923.92 1367.57 1367.71 2473.89 2171.5 2616.83 1923.92"/>
+        <polygon class="cls-2" points="2735.06 1367.71 1367.57 1367.71 2705.18 1652.03 2735.06 1367.71"/>
+        <polygon class="cls-2" points="2616.83 811.5 1367.57 1367.71 2705.18 1083.39 2616.83 811.5"/>
+        <polygon class="cls-2" points="2282.6 351.47 1367.57 1367.71 2473.89 563.92 2282.6 351.47"/>
+        <polygon class="cls-2" points="1790.15 67.15 1367.57 1367.71 2051.31 183.43 1790.15 67.15"/>
+      </g>
+    </g>
+  </g>
+</svg>
